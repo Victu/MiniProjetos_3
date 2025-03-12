@@ -1,2 +1,2 @@
-# MiniProjetos_3
+# Pequenos projetos
  Mini games e programas desenvolvidos em linguagem C
